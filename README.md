@@ -35,7 +35,7 @@ Getting Started
 4. Field Operation: Point laser at target and press the measurement button. 
 5. Data Logging: View results on LCD screen or automatically record to Google Sheets.
 ![Measurement System](Images/Circuit2.jpg)
-![Measurement System](Images/Circuit(4).jpg)
+![Measurement System](Images/Circuit4.jpg)
 ![Measurement System](Images/Operator_Screen_view.jpg)
 Documentation
 (Coming Soon)
