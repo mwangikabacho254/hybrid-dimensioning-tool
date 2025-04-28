@@ -34,9 +34,11 @@ Getting Started
 3. Calibration: Perform angle and distance calibration for accurate measurements. 
 4. Field Operation: Point laser at target and press the measurement button. 
 5. Data Logging: View results on LCD screen or automatically record to Google Sheets.
-![Measurement System](Images/Circuit2.jpg)
-![Measurement System](Images/Circuit4.jpg)
-![Measurement System](Images/Operator_Screen_view.jpg)
+
+
+<img src="Images/Circuit2.jpg" alt="Circuit View" width="300"/>   <img src="Images/Circuit4.jpg" alt="Circuit Screen View" width="400"/>
+
+<img src="Images/Operator_Screen_view.jpg" alt="Operator Screen View" width="600"/>
 Documentation
 (Coming Soon)
 
