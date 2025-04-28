@@ -2,7 +2,7 @@ Hybrid Dimensioning Tool – Smart Field Measurement System
 A professional-grade measurement device combining ultrasonic, angular, and laser technologies for accurate field calculations in construction, surveying, civil engineering, and industrial applications.
 
 
-(Photolink.)
+[Measurement System](Images/Circuit1.jpg)
 
 Key Features
 🔹 Triple-Sensor Technology: Combines ultrasonic distance measurement (0.02m–4m), angle detection (0°–90°), and laser targeting. - 
@@ -34,7 +34,9 @@ Getting Started
 3. Calibration: Perform angle and distance calibration for accurate measurements. 
 4. Field Operation: Point laser at target and press the measurement button. 
 5. Data Logging: View results on LCD screen or automatically record to Google Sheets.
-
+[Measurement System](Images/Circuit2.jpg)
+[Measurement System](Images/Circuit(4).jpg)
+[Measurement System](Images/Operator_Screen_view.jpg)
 Documentation
 (Coming Soon)
 
