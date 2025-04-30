@@ -2,7 +2,7 @@ Hybrid Dimensioning Tool – Smart Field Measurement System
 A professional-grade measurement device combining ultrasonic, angular, and laser technologies for accurate field calculations in construction, surveying, civil engineering, and industrial applications.
 
 
-![Measurement System](Images/Circuit1.jpg)
+<img src="Images/Circuit1.jpg" alt="Circuit View" width="600"/>
 
 Key Features
 🔹 Triple-Sensor Technology: Combines ultrasonic distance measurement (0.02m–4m), angle detection (0°–90°), and laser targeting. - 
@@ -17,16 +17,13 @@ Angle Range	0° to 90° (±0.5° accuracy)
 Distance Range	0.02 m to 4 m (±3 mm accuracy)
 Power Supply	Rechargeable LiPo Battery (8+ hours continuous use)
 Connectivity	Expandable to WiFi/Bluetooth (future versions)
+
 Applications
-🏗 Construction site layout and structural dimensioning
-
-🛤 Civil engineering surveys (bridges, slopes, buildings)
-
-🌍 Land surveying and topographic mapping
-
-🏢 Industrial plant measurements (pipes, tanks, towers)
-
-🌾 Agricultural planning (silos, greenhouses, terrain elevation)
+Construction site layout and structural dimensioning
+Civil engineering surveys (bridges, slopes, buildings)
+Land surveying and topographic mapping
+Industrial plant measurements (pipes, tanks, towers)
+Agricultural planning (silos, greenhouses, terrain elevation)
 
 Getting Started
 1. Hardware Setup: Connect ultrasonic sensor, potentiometer, and laser module to ESP32 microcontroller.
@@ -39,6 +36,8 @@ Getting Started
 <img src="Images/Circuit2.jpg" alt="Circuit View" width="300"/>   <img src="Images/Circuit4.jpg" alt="Circuit Screen View" width="400"/>
 
 <img src="Images/Operator_Screen_view.jpg" alt="Operator Screen View" width="600"/>
+
+
 Documentation
 (Coming Soon)
 
